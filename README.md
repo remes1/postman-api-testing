@@ -1,4 +1,4 @@
-<h2>Demo API Testing Project using Postman</h2>
+<h2>Demo API Testing Project using Postman/Newman</h2>
 
 ### Project: Conduit
 
@@ -15,3 +15,4 @@
 | `/api/user`               | POST   | Update user                  |
 | `/api/profiles/remes`     | GET    | Retrieve user profile        |
 | `/api/articles`           | GET    | Retrieve all articles        |
+
