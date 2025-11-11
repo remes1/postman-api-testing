@@ -16,3 +16,6 @@
 | `/api/profiles/remes`     | GET    | Retrieve user profile        |
 | `/api/articles`           | GET    | Retrieve all articles        |
 
+## Demo of Collection Run using Newman
+![Postman Collection Run using Newman 1](images/Run_newman.png)
+![Postman Collection Run using Newman 2](images/Run_newman_2.png)
